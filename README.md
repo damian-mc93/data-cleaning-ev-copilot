@@ -9,8 +9,7 @@ This project was completed for the **Microsoft Data Cleaning & Processing with C
 - Implemented data organization strategies to improve workflow and analysis.
 
 ## Files
-- `EV_Raw_Data.xlsx` – Original dataset.
-- `EV_Cleaned_Data.xlsx` – Cleaned and processed dataset with Copilot assistance.
+- `Electric Vehicles Dataset.xlsx` – Cleaned and processed dataset with Copilot assistance.
 
 ## Skills Demonstrated
 - Data cleaning and preprocessing
